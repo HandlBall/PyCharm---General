@@ -1,3 +1,5 @@
+#Autor: Jan Handl
+
 print("Welcome to Build Burgers. Here you build your own burger. Let's start with a bun.")
 print("What bun would you like? (plain or salted)")
 
