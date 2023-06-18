@@ -1,3 +1,7 @@
+#Author: Jan Handl
+#Improvement: Filip Vesely
+#Free to use
+
 from time import sleep
 
 total_cost = 0
