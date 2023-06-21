@@ -1,5 +1,5 @@
 #Author: Jan Handl
-#Improvement: Filip Vesely
+#Improved by: Filip Vesely
 #Free to use
 
 from time import sleep
